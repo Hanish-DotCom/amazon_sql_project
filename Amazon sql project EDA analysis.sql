@@ -1,5 +1,4 @@
 -- EDA
--- This is only fot training purpose data , not actual Amazon Data
 select * from category ;
 select * from customers ;
 select * from Inventory;
