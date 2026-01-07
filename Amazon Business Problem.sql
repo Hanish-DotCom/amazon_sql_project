@@ -212,7 +212,7 @@ HAVING SUM(
 ORDER BY returned_units DESC
 LIMIT 10;
 
--- Some More Extra Questions ---------
+-- Some More business problem ---------
 
 -- 1.Order Cancellation Rate by State
 SELECT
