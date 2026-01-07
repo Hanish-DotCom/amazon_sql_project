@@ -129,6 +129,19 @@ Stores shipping and return information.
 
 📌 **Purpose:** Delivery performance and return analysis.
 
+### 9️⃣ inventory
+Stores inventory and stock details.
+
+| Column | Description |
+|------|------------|
+| inventory_id | Inventory record ID |
+| product_id | Related product |
+| stock | Current stock level |
+| warehouse_id | Warehouse identifier |
+| last_stock_date | Last restock date |
+
+📌 **Purpose:** Stock monitoring and warehouse management.
+
 ---
 ## 🧹 Data Cleaning & Validation
 - Converted VARCHAR date fields to DATE
