@@ -176,23 +176,6 @@ Stores shipping and return information.
 - SQL (joins, window functions, subqueries)
 - ERD for schema visualization
 
-## 📂 Project Structure
-Amazon-SQL-Project/
-├── README.md
-├── ERD/
-│   └── erd.jpeg
-├── schema/
-│   └── amazon_schema.sql
-├── data_cleaning/
-│   └── amazon_data_cleaning.sql
-├── analysis/
-│   └── amazon_business_queries.sql
-├── dataset/
-│   └── amazon_dataset_files
-└── .gitattributes
-
-
-
 ## ✅ Conclusion
 This project establishes a **strong SQL data foundation** for analyzing an Amazon-style e-commerce system.  
 The schema supports scalable analytics, clean joins, and real-world business use cases.
